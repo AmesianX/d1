@@ -16,7 +16,7 @@
 **🔄Updates:**
 
 * 05-04-2025: We released the diffu-GRPO and eval code.
-* 04-11-2025: We released [our paper](https://dllm-reasoning.github.io/media/preprint.pdf) and [project page](https://dllm-reasoning.github.io). Additionally, the SFT code was open-sourced.
+* 04-11-2025: We released [our paper](https://arxiv.org/pdf/2504.12216) and [project page](https://dllm-reasoning.github.io). Additionally, the SFT code was open-sourced.
 
 <div align="center">
   <hr width="100%">
